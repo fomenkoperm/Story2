@@ -1,1 +1,2 @@
 this is a story chapter1.txt
+This is a great story!
